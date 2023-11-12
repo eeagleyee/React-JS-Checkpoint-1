@@ -17,7 +17,7 @@ This project is a React application created as part of a checkpoint. It utilizes
 
 2. **Create a React App:**
    ```bash
-   npx create-react-app <project-name>
+   npx create-react-app <react-bootstrap-checkpoint>
 
 
 **Remove Unnecessary Files:**
