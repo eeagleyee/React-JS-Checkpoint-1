@@ -21,8 +21,6 @@ const App = () => {
       <div className="App">
         {/* Card components - rendered three times */}
         <Card />
-        <Card />
-        <Card />
       </div>
     </>
   );
